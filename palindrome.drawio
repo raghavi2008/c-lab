@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Page-1" id="Ea07X4pzugEdlThuD_pJ">
+    <mxGraphModel dx="1106" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eJ4Lig7JOYG8bPguLmCq-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eJ4Lig7JOYG8bPguLmCq-1" target="eJ4Lig7JOYG8bPguLmCq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJ4Lig7JOYG8bPguLmCq-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJ4Lig7JOYG8bPguLmCq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eJ4Lig7JOYG8bPguLmCq-4" target="eJ4Lig7JOYG8bPguLmCq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJ4Lig7JOYG8bPguLmCq-4" value="Read a integer&lt;div&gt;number&lt;/div&gt;&lt;div&gt;num&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eJ4Lig7JOYG8bPguLmCq-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eJ4Lig7JOYG8bPguLmCq-8" target="eJ4Lig7JOYG8bPguLmCq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJ4Lig7JOYG8bPguLmCq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eJ4Lig7JOYG8bPguLmCq-8" target="eJ4Lig7JOYG8bPguLmCq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJ4Lig7JOYG8bPguLmCq-8" value="If&lt;div&gt;num&amp;lt;o&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eJ4Lig7JOYG8bPguLmCq-10" value="print error&lt;div&gt;&quot;Enter positive integer&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eJ4Lig7JOYG8bPguLmCq-12" value="originalNum=num&lt;div&gt;reversedNum=num&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
